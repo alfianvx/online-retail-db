@@ -1,3 +1,4 @@
+-- get average transaction by customer in 1 month  --
 SELECT
   users.username AS customer,
   AVG(products.product_price) AS average_transaction
