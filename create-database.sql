@@ -1,0 +1,4 @@
+-- Active: 1699279256275@@127.0.0.1@3306@retail_store
+CREATE DATABASE retail_store;
+
+SHOW DATABASES;
